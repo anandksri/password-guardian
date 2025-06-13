@@ -1,0 +1,43 @@
+ html,
+ body {
+     font-family: 'Poppins', sans-serif;
+     background-color: #121212;
+     /* solid dark */
+     color: #e0e0e0;
+     min-height: 100vh;
+ }
+
+ /* Glassmorphism Card */
+ .glass-card {
+     background: rgba(255 255 255 / 0.05);
+     backdrop-filter: blur(12px);
+     border: 1px solid rgba(255 255 255 / 0.1);
+     border-radius: 1rem;
+     box-shadow: 0 4px 30px rgba(0, 255, 174, 0.2);
+     transition: background 0.3s ease;
+ }
+
+ /* Strength bar colors */
+ .strength-0 {
+     background-color: #bbb;
+ }
+
+ .strength-1 {
+     background-color: #ff3e3e;
+ }
+
+ .strength-2 {
+     background-color: #ff9933;
+ }
+
+ .strength-3 {
+     background-color: #ffff66;
+ }
+
+ .strength-4 {
+     background-color: #33ff77;
+ }
+
+ .strength-5 {
+     background-color: #00ffae;
+ }
