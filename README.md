@@ -17,7 +17,7 @@
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/anandkeshari/password-guardian.git
+   git clone https://github.com/anandksri/password-guardian.git
    ```
 2. **Open `index.html` in your browser**
    No build steps required—everything runs client-side.
